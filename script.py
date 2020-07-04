@@ -1,4 +1,5 @@
 import sys
+import no
 
 print(sys.version)
 print(sys.executable)
